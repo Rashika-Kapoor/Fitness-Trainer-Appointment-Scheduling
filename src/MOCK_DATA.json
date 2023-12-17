@@ -1,0 +1,37 @@
+[{
+    "id": 1,
+    "first_name": "Evelyn",
+    "last_name": "Dumbelton",
+    "location": "Bukovec",
+    "appointment_date": "2024-05-15",
+    "appointment_time":["05:00"]
+  }, {
+    "id": 2,
+    "first_name": "Zed",
+    "last_name": "Sallows",
+    "location": "Skärhamn",
+    "appointment_date": "2025-01-22",
+    "appointment_time":["05:00", "06:00", "08:30"]
+  }, {
+    "id": 3,
+    "first_name": "Fanechka",
+    "last_name": "Plowes",
+    "location": "Dolna Banya",
+    "appointment_date": "2024-01-31",
+    "appointment_time": ["09:00", "10:30"]
+  }, {
+    "id": 4,
+    "first_name": "Wolfie",
+    "last_name": "Sussems",
+    "location": "Xukou",
+    "appointment_date": "2024-05-10",
+    "appointment_time":["05:00"]
+  }, {
+    "id": 5,
+    "first_name": "Gleda",
+    "last_name": "Lethbridge",
+    "location": "Santa Fe",
+    "appointment_date": "2023-12-29",
+    "appointment_time":["09:00", "10:30"]
+  }]
+  
